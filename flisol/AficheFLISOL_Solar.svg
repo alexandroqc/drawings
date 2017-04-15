@@ -980,9 +980,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="1328.0801"
-     inkscape:cy="811.59831"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="506.25159"
+     inkscape:cy="359.41343"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3423,6 +3423,32 @@
          x="223.27573"
          y="271.34314"
          id="tspan4338-1-2-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.23048115px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light';text-align:end;text-anchor:end;fill:#ff8838;fill-opacity:1;stroke-width:0.20658518px">Plaza del Bicentenario y Av. Villazón Nº 1995</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.03645587px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.25303799px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="332.5347"
+       y="94.486847"
+       id="text4382-2-3"
+       inkscape:export-xdpi="868"
+       inkscape:export-ydpi="868"><tspan
+         sodipodi:role="line"
+         id="tspan4384-2-6"
+         x="332.5347"
+         y="94.486847"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15.55748558px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light';fill:#ff9955;fill-opacity:1;stroke-width:0.25303799px">2017</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.4790225px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8838;fill-opacity:1;stroke:none;stroke-width:0.20658518px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="222.61125"
+       y="293.48749"
+       id="text4378-0-0-2-9-3"
+       inkscape:export-xdpi="868"
+       inkscape:export-ydpi="868"><tspan
+         sodipodi:role="line"
+         x="222.61125"
+         y="293.48749"
+         id="tspan4338-1-2-7-3-6"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.23048115px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light';text-align:end;text-anchor:end;fill:#ff8838;fill-opacity:1;stroke-width:0.20658518px">Plaza del Bicentenario y Av. Villazón Nº 1995</tspan></text>
   </g>
 </svg>
