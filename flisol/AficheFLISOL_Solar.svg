@@ -980,9 +980,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="506.25159"
-     inkscape:cy="359.41343"
+     inkscape:zoom="0.64"
+     inkscape:cx="645.85581"
+     inkscape:cy="16.087103"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1680,7 +1680,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 318.75,765 -76.83893,20.58893 -56.25,-56.25 L 206.25,652.5 l 76.83893,-20.58893 56.25,56.25 z"
-       transform="matrix(0.28895502,-0.07742524,0.07742524,0.28895502,-49.791854,86.872547)"
+       transform="matrix(0.24374423,-0.06531105,0.06531105,0.24374423,-29.338089,112.01234)"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868" />
     <path
@@ -1698,7 +1698,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 318.75,765 -76.83893,20.58893 -56.25,-56.25 L 206.25,652.5 l 76.83893,-20.58893 56.25,56.25 z"
-       transform="matrix(0.24050422,-0.06444291,0.06444291,0.24050422,-47.946582,128.5082)"
+       transform="matrix(0.20287419,-0.05435997,0.05435997,0.20287419,-27.781534,147.13355)"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868" />
     <g
@@ -2875,22 +2875,22 @@
            id="tspan3191">Software Libre</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.83375597px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffd834;fill-opacity:1;stroke:none;stroke-width:0.3194797px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="125.09694"
-       y="258.03781"
+       style="font-style:normal;font-weight:normal;font-size:3.23391461px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffd834;fill-opacity:1;stroke:none;stroke-width:0.26949292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="118.18707"
+       y="256.39655"
        id="text4378-0"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868"><tspan
          sodipodi:role="line"
          id="tspan4380-9"
-         x="125.09694"
-         y="258.03781"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1817894px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;text-align:end;text-anchor:end;fill:#ffd834;fill-opacity:1;stroke-width:0.3194797px">Vicepresidencia</tspan><tspan
+         x="118.18707"
+         y="256.39655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.43225193px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;text-align:end;text-anchor:end;fill:#ffd834;fill-opacity:1;stroke-width:0.26949292px">Vicepresidencia</tspan><tspan
          sodipodi:role="line"
-         x="125.09694"
-         y="263.18268"
+         x="118.18707"
+         y="260.73645"
          id="tspan4338-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.40057182px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;fill:#ffd834;fill-opacity:1;stroke-width:0.3194797px" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.3991189px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;fill:#ffd834;fill-opacity:1;stroke-width:0.26949292px" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2904,35 +2904,35 @@
          style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.54954028px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffd834;fill-opacity:1;stroke:none;stroke-width:0.29579505px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="214.38925"
-       y="284.79102"
+       style="font-style:normal;font-weight:normal;font-size:2.99416828px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffd834;fill-opacity:1;stroke:none;stroke-width:0.24951404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="193.50842"
+       y="278.96387"
        id="text4378-0-0"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868"><tspan
          sodipodi:role="line"
-         x="214.38925"
-         y="284.79102"
+         x="193.50842"
+         y="278.96387"
          id="tspan4338-1-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.35282612px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;text-align:end;text-anchor:end;fill:#ffd834;fill-opacity:1;stroke-width:0.29579505px;"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Exo;-inkscape-font-specification:'Exo Bold';stroke-width:0.29579505px;fill:#ffd834;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73299122px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;text-align:end;text-anchor:end;fill:#ffd834;fill-opacity:1;stroke-width:0.24951404px"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Exo;-inkscape-font-specification:'Exo Bold';fill:#ffd834;fill-opacity:1;stroke-width:0.24951404px"
    id="tspan1487">El Alto</tspan> - Instituto Tecnológico  Santo Toribio</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.71445084px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8838;fill-opacity:1;stroke:none;stroke-width:0.22620423px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="15.397203"
-       y="247.0681"
+       style="font-style:normal;font-weight:normal;font-size:2.28973961px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8838;fill-opacity:1;stroke:none;stroke-width:0.19081162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="25.651289"
+       y="247.1432"
        id="text4382-2-6"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868"><tspan
          sodipodi:role="line"
-         x="15.397203"
-         y="247.0681"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.90767002px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Bold';fill:#ff8838;fill-opacity:1;stroke-width:0.22620423px"
+         x="25.651289"
+         y="247.1432"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.73163319px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Bold';fill:#ff8838;fill-opacity:1;stroke-width:0.19081162px"
          id="tspan1479">FLISoL: <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Exo;-inkscape-font-specification:Exo"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Exo;-inkscape-font-specification:Exo;stroke-width:0.19081162px"
    id="tspan1483">Sábado</tspan> 22 <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Exo;-inkscape-font-specification:Exo"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Exo;-inkscape-font-specification:Exo;stroke-width:0.19081162px"
    id="tspan1481">de Abril</tspan></tspan></text>
     <rect
        style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.34011194;stroke-opacity:1;filter:url(#filter4991)"
@@ -3128,22 +3128,22 @@
    id="tspan1357">21</tspan> de Abril</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.38666677px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffd834;fill-opacity:1;stroke:none;stroke-width:0.28222224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="76.071266"
-       y="271.84033"
+       style="font-style:normal;font-weight:normal;font-size:2.85677838px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffd834;fill-opacity:1;stroke:none;stroke-width:0.23806489px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="76.8321"
+       y="268.03949"
        id="text4378-0-8"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868"><tspan
          sodipodi:role="line"
          id="tspan4380-9-3"
-         x="76.071266"
-         y="271.84033"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;text-align:end;text-anchor:end;fill:#ffd834;fill-opacity:1;stroke-width:0.28222224px">UMSA</tspan><tspan
+         x="76.8321"
+         y="268.03949"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.33227062px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;text-align:end;text-anchor:end;fill:#ffd834;fill-opacity:1;stroke-width:0.23806489px">UMSA</tspan><tspan
          sodipodi:role="line"
-         x="76.071266"
-         y="276.38522"
+         x="76.8321"
+         y="271.87326"
          id="tspan4338-1-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.65414238px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;fill:#ffd834;fill-opacity:1;stroke-width:0.28222224px" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76947784px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;fill:#ffd834;fill-opacity:1;stroke-width:0.23806489px" /></text>
     <rect
        style="opacity:1;fill:#afe9dd;fill-opacity:1;stroke:none;stroke-width:0.34011194;stroke-opacity:1;filter:url(#filter4967)"
        id="rect440-3-4"
@@ -3272,7 +3272,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 318.75,765 -76.83893,20.58893 -56.25,-56.25 L 206.25,652.5 l 76.83893,-20.58893 56.25,56.25 z"
-       transform="matrix(0.06502908,-0.01742448,0.01742448,0.06502908,11.855081,213.08737)"
+       transform="matrix(0.05485443,-0.01469819,0.01469819,0.05485443,22.663377,218.47921)"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868" />
     <path
@@ -3290,7 +3290,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 318.75,765 -76.83893,20.58893 -56.25,-56.25 L 206.25,652.5 l 76.83893,-20.58893 56.25,56.25 z"
-       transform="matrix(0.06502908,-0.01742448,0.01742448,0.06502908,11.855081,226.31654)"
+       transform="matrix(0.05485443,-0.01469819,0.01469819,0.05485443,22.663377,229.6385)"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868" />
     <rect
@@ -3400,30 +3400,30 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.35282612px;line-height:1.25;font-family:Exo;-inkscape-font-specification:Exo;text-align:end;text-anchor:end;fill:#ff8838;fill-opacity:1;stroke-width:0.29579505px" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.47902203px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8838;fill-opacity:1;stroke:none;stroke-width:0.20658518px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="235.70654"
-       y="257.87204"
+       style="font-style:normal;font-weight:normal;font-size:2.09114671px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8838;fill-opacity:1;stroke:none;stroke-width:0.17426223px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="211.49034"
+       y="256.25671"
        id="text4378-0-0-2"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868"><tspan
          sodipodi:role="line"
-         x="235.70654"
-         y="257.87204"
+         x="211.49034"
+         y="256.25671"
          id="tspan4338-1-2-7"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.23048115px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light';text-align:end;text-anchor:end;fill:#ff8838;fill-opacity:1;stroke-width:0.20658518px">Calle Ayacucho esquina Mercado</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.09917784px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light';text-align:end;text-anchor:end;fill:#ff8838;fill-opacity:1;stroke-width:0.17426223px">Calle Ayacucho esquina Mercado</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.47902226px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8838;fill-opacity:1;stroke:none;stroke-width:0.20658518px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="223.27573"
-       y="271.34314"
+       style="font-style:normal;font-weight:normal;font-size:2.09114671px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8838;fill-opacity:1;stroke:none;stroke-width:0.17426223px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="201.00449"
+       y="267.62009"
        id="text4378-0-0-2-9"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868"><tspan
          sodipodi:role="line"
-         x="223.27573"
-         y="271.34314"
+         x="201.00449"
+         y="267.62009"
          id="tspan4338-1-2-7-3"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.23048115px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light';text-align:end;text-anchor:end;fill:#ff8838;fill-opacity:1;stroke-width:0.20658518px">Plaza del Bicentenario y Av. Villazón Nº 1995</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.09917784px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light';text-align:end;text-anchor:end;fill:#ff8838;fill-opacity:1;stroke-width:0.17426223px">Plaza del Bicentenario y Av. Villazón Nº 1995</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.03645587px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.25303799px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3439,16 +3439,16 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15.55748558px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light';fill:#ff9955;fill-opacity:1;stroke-width:0.25303799px">2017</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.4790225px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8838;fill-opacity:1;stroke:none;stroke-width:0.20658518px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="222.61125"
-       y="293.48749"
+       style="font-style:normal;font-weight:normal;font-size:2.09114695px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8838;fill-opacity:1;stroke:none;stroke-width:0.17426223px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="247.01003"
+       y="286.29965"
        id="text4378-0-0-2-9-3"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868"><tspan
          sodipodi:role="line"
-         x="222.61125"
-         y="293.48749"
+         x="247.01003"
+         y="286.29965"
          id="tspan4338-1-2-7-3-6"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:7.23048115px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light';text-align:end;text-anchor:end;fill:#ff8838;fill-opacity:1;stroke-width:0.20658518px">Plaza del Bicentenario y Av. Villazón Nº 1995</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.09917784px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light';text-align:end;text-anchor:end;fill:#ff8838;fill-opacity:1;stroke-width:0.17426223px">Villa Adela detrás del Plan 145 Av. Montero Nro. 123, entre Calles 10 y 12</tspan></text>
   </g>
 </svg>
