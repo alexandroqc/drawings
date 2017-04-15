@@ -18,7 +18,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="AficheFLISOL Solar Cronograma.svg"
+   sodipodi:docname="AficheFLISOL_SolarCronograma.svg"
    inkscape:export-filename="/home/alexandro/Documentos/AficheFLISOLCronograma.png"
    inkscape:export-xdpi="453.72726"
    inkscape:export-ydpi="453.72726">
@@ -4470,8 +4470,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64"
-     inkscape:cx="746.13018"
-     inkscape:cy="658.16561"
+     inkscape:cx="1348.4739"
+     inkscape:cy="784.72811"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5269,28 +5269,6 @@
        transform="matrix(0.70484188,-0.18886177,0.18886177,0.70484188,146.7899,-375.0699)"
        inkscape:export-xdpi="868"
        inkscape:export-ydpi="868" />
-    <rect
-       style="opacity:1;fill:#e6ffd2;fill-opacity:1;stroke:none;stroke-width:4.05203056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect5012"
-       width="187.60329"
-       height="18.533411"
-       x="222.5923"
-       y="-266.88995"
-       transform="rotate(45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.30926275px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#373e48;fill-opacity:1;stroke:none;stroke-width:0.27577192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="345.04947"
-       y="-255.09125"
-       id="text4378-0-0-6"
-       inkscape:export-xdpi="868"
-       inkscape:export-ydpi="868"
-       transform="rotate(45)"><tspan
-         sodipodi:role="line"
-         x="345.04947"
-         y="-255.09125"
-         id="tspan4338-1-2-2"
-         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.65201664px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light Italic';text-align:end;text-anchor:end;fill:#373e48;fill-opacity:1;stroke-width:0.27577192px">Ingreso Libre</tspan></text>
     <text
        id="text4378-1-3-6-9"
        y="195.23521"
@@ -8610,6 +8588,27 @@
          y="367.38074"
          style="font-size:5.0800004px;line-height:1.25;font-family:sans-serif;stroke-width:0.28222224"
          id="tspan1372">Algunos íconos fueron tomados de: https://github.com/keeferrourke/la-capitaine-icon-theme</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.05203056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect5012"
+       width="187.60329"
+       height="18.533411"
+       x="359.2973"
+       y="32.658413"
+       ry="4.9609375" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.30926275px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#373e48;fill-opacity:1;stroke:none;stroke-width:0.27577192px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="421.73267"
+       y="44.708893"
+       id="text4378-0-0-6"
+       inkscape:export-xdpi="868"
+       inkscape:export-ydpi="868"><tspan
+         sodipodi:role="line"
+         x="421.73267"
+         y="44.708893"
+         id="tspan4338-1-2-2"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.65201664px;line-height:1.25;font-family:Exo;-inkscape-font-specification:'Exo Light Italic';text-align:end;text-anchor:end;fill:#373e48;fill-opacity:1;stroke-width:0.27577192px">Ingreso Libre</tspan></text>
   </g>
   <style
      id="style26"
